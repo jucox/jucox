@@ -1,5 +1,4 @@
-### Hey!! What's up? 
-### I'm Renato and I'm a Web Developer 😃
+### Hey!! I'm Renato and I'm a Web Developer 😃
 
 I'm 19 and I live in São Paulo, Brazil!
 
