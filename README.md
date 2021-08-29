@@ -17,6 +17,7 @@ I started my life in the code world in 2020, with a HTML little course, but now 
   <img align="right" alt="Rafa-yoda" height="100" width="100" src="https://3.bp.blogspot.com/-zpyhumQrsAc/WQutTeDqAYI/AAAAAAAAZEU/DgDT90KRUs4kE6ybZzRlntmcN2BsY0q7wCEw/s400/Star%2BWars%2BDay%2B%2523Starwarsday%2B2017%2BMay%2BThe%2BForce%2Bbe%2Bwith%2Byou%2BStormtrooper%2Bdancinha%2BVinheta%2BMTV%2B2016.gif">
 </div>
  <br>
+ <br>
 <div> 
   <a href = "mailto:renatojr.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatoteixeiralinsjr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
