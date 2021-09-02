@@ -24,4 +24,12 @@ I started my life in the code world in 2020, with a HTML little course, but now 
  
    ![Snake animation](https://github.com/jucox/jucox/blob/output/github-contribution-grid-snake.svg)
  
+I've been working in the administrative area for a few years, where I had great experience in the finance and planning sectors, but I'm currently transitioning my career to work as a web developer.
+
+I immersed myself in the world of technology in 2020, when I fell in love with the HTML language through a short course at Fundação Bradesco, and this passion increased even more when I started working at Digital House, a school dedicated to technology courses, where I had the opportunity to learn about this vast universe of programming and learn to develop web applications using node.js with both front and back-end tools in the Full Stack Web Development course.
+
+Today I am deepening my studies in the front-end area with the aim of establishing my career in it.
+
+I highly value the constant search for knowledge and empathy for others, two factors that move the world forward!
+
 </div>
