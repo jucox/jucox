@@ -1,8 +1,12 @@
 ### Hey!! I'm Renato and I'm a Web Developer 😃
-<div style="text-align:justify">
+
+<div style="text-align:justify;">
+ 
 I'm 19 and I live in São Paulo, Brazil!
 
 I started my life in the code world in 2020, with a HTML little course, but now in 2021 I studied Full Stack Web Development and today I'm improving my knowledge as a Front End  Developer 💻
+ 
+</div>
 
  <div>
   <a href="https://github.com/jucox">
@@ -21,8 +25,12 @@ I started my life in the code world in 2020, with a HTML little course, but now 
 <div> 
   <a href = "mailto:renatojr.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatoteixeiralinsjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- 
+</div>
+<div>
    ![Snake animation](https://github.com/jucox/jucox/blob/output/github-contribution-grid-snake.svg)
+</div>
+
+<div style="text-align:justify;">
  
 I've been working in the administrative area for a few years, where I had great experience in the finance and planning sectors, but I'm currently transitioning my career to work as a web developer.
 
@@ -33,4 +41,3 @@ Today I am deepening my studies in the front-end area with the aim of establishi
 I highly value the constant search for knowledge and empathy for others, two factors that move the world forward! 😄
 
 </div>
- </div>
