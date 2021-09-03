@@ -30,6 +30,6 @@ I immersed myself in the world of technology in 2020, when I fell in love with t
 
 Today I am deepening my studies in the front-end area with the aim of establishing my career in it.
 
-I highly value the constant search for knowledge and empathy for others, two factors that move the world forward!
+I highly value the constant search for knowledge and empathy for others, two factors that move the world forward! 😄
 
 </div>
