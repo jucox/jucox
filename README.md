@@ -27,8 +27,6 @@ I started my life in the code world in 2020, with a HTML little course, but now 
   <a href="https://www.linkedin.com/in/renatoteixeiralinsjr" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
    ![Snake animation](https://github.com/jucox/jucox/blob/output/github-contribution-grid-snake.svg)
- 
-    <img alingn="center" src="https://profile-counter.glitch.me/jucox/count.svg" />
 </div>
 
 <div style="text-align:justify;">
