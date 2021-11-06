@@ -28,6 +28,7 @@ I started my life in the code world in 2020, with a HTML little course, but now 
 
    ![Snake animation](https://github.com/jucox/jucox/blob/output/github-contribution-grid-snake.svg)
  
+    <img alingn="center" src="https://profile-counter.glitch.me/jucox/count.svg" />
 </div>
 
 <div style="text-align:justify;">
