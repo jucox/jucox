@@ -10,7 +10,7 @@ Também atuo como Desenvolvedor Front-end Jr. na Welvind, onde desenvolvo sistem
 
 Estou me aprofundando em JavaScript e me familiarizando com React, a fim de desenvolver minhas habilidades no universo dos códigos. =)
 
-Meu portfolio: https://jucox.github.io/portfolio/
+<a href="https://jucox.github.io/portfolio/" target="_blank">Clique aqui para acessar meu portfolio!</a>
  <br>
 </div>
 
