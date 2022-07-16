@@ -1,10 +1,16 @@
-### Hello, world! 😆
+### Hello world! 😆
 
 <div style="text-align:justify;">
  
-I'm 20 and I live in São Paulo, Brazil!
+Tenho 20 anos e sou apaixonado por tecnologia, design e ficção científica!
 
-I started my life in the code world in 2020, with a HTML little course, but now in 2021 I studied Full Stack Web Development and today I'm improving my knowledge as a Front End  Developer 💻
+Atuo como Instrutor de Programação na Digital House, uma escola com o propósito de mudar vidas através da tecnologia, onde compartilho meus conhecimentos de JavaScript e ensino os fundamentos de programação.
+
+Também atuo como Desenvolvedor Front-end Jr. na Welvind, onde desenvolvo sistemas em HTML, CSS e JavaScript.
+
+Estou me aprofundando em JavaScript e me familiarizando com React, a fim de desenvolver minhas habilidades no universo dos códigos. =)
+
+Meu portfolio: https://jucox.github.io/portfolio/
  <br>
 </div>
 
@@ -28,14 +34,4 @@ I started my life in the code world in 2020, with a HTML little course, but now 
 
    ![Snake animation](https://github.com/jucox/jucox/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<div style="text-align:justify;">
- 
-I've been working in the administrative area for a few years, where I had great experience in the finance and planning sectors, but I'm currently transitioning my career to work as a web developer.
-
-I immersed myself in the world of technology in 2020, when I fell in love with the HTML language through a short course at Fundação Bradesco, and this passion increased even more when I started working at Digital House, a school dedicated to technology courses, where I had the opportunity to learn about this vast universe of programming and learn to develop web applications using node.js with both front and back-end tools in the Full Stack Web Development course.
-
-Today I am deepening my studies in the front-end area with the aim of establishing my career in it.
-
-I highly value the constant search for knowledge and empathy for others, two factors that move the world forward! 😄
 </div>
