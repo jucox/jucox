@@ -1,8 +1,8 @@
-### Hello world! 😆
+### Hello world! 😄
 
 <div style="text-align:justify;">
  
-Tenho 20 anos e sou apaixonado por tecnologia, design e ficção científica!
+Tenho 21 anos e sou apaixonado por tecnologia, design e ficção científica!
 
 Atuo como Instrutor de Programação na Digital House, uma escola com o propósito de mudar vidas através da tecnologia, onde compartilho meus conhecimentos de JavaScript e ensino os fundamentos de programação.
 
