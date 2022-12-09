@@ -2,13 +2,13 @@
 
 <div style="text-align:justify;">
  
-Tenho 21 anos e sou apaixonado por tecnologia, design e ficção científica!
+Muito prazer! Sou o Renato, um desenvolvedor web apaixonado por tecnologia, design e música! :D
 
-Atuo como Instrutor de Programação na Digital House, uma escola com o propósito de mudar vidas através da tecnologia, onde compartilho meus conhecimentos de JavaScript e ensino os fundamentos de programação.
+Sou formado em Desenvolvimento Web Full Stack pela Digital House, onde atuei como instrutor de programação compartilhando meus conhecimentos em lógica com JavaScript.
 
-Também atuo como Desenvolvedor Front-end Jr. na Welvind, onde desenvolvo sistemas em HTML, CSS e JavaScript.
+Opero como Desenvolvedor Front-end Jr. na Welvind, onde construo sistemas em HTML, CSS, JavaScript e PHP em regime part-time.
 
-Estou me aprofundando em JavaScript e me familiarizando com React, a fim de desenvolver minhas habilidades no universo dos códigos. =)
+Estou em busca de um emprego full-time como desenvolvedor front-end, a fim de aprimorar minhas habilidades no universo dos códigos e crescer na carreira como programador! =)
 
 <a href="https://jucox.github.io/portfolio/" target="_blank">Clique aqui para acessar meu portfolio!</a>
  <br>
