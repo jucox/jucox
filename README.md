@@ -6,7 +6,7 @@ Sou o Renato, tenho 21 anos e sou apaixonado por tecnologia, design e música! :
 
 Sou formado em Desenvolvimento Web Full Stack pela Digital House, onde atuei como instrutor de programação compartilhando meus conhecimentos em lógica com JavaScript.
 
-Opero como Desenvolvedor Front-end Jr. na Welvind, onde construo sistemas em HTML, CSS, JavaScript e PHP.
+Opero como Desenvolvedor Front-end Jr. na Welvind, onde construo sistemas com HTML, CSS, JavaScript e PHP.
 
 Estou estudando React e UX Design, a fim de aprimorar minhas habilidades no universo dos códigos e crescer na carreira como programador! =)
 
