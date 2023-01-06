@@ -2,13 +2,13 @@
 
 <div style="text-align:justify;">
  
-Sou o Renato, tenho 21 anos e sou apaixonado por tecnologia, design e música! :D
+I'm Renato, a developer passionate about technology, design and music! :D
 
-Sou formado em Desenvolvimento Web Full Stack pela Digital House, onde atuei como instrutor de programação compartilhando meus conhecimentos em lógica com JavaScript.
+I graduated in Full Stack Web Development from Digital House, where I worked as a programming instructor sharing my knowledge in logic with JavaScript.
 
-Opero como Desenvolvedor Front-end Jr. na Welvind, onde construo sistemas com HTML, CSS, JavaScript e PHP.
+I work as a Junior Front-end Developer at Welvind, where I build systems with HTML, CSS, JavaScript and PHP.
 
-Estou estudando React e UX Design, a fim de aprimorar minhas habilidades no universo dos códigos e crescer na carreira como programador! =)
+I'm studying React and UX Design in order to improve my skills in the code world and grow my career as a programmer! =)
 
 <a href="https://jucox.github.io/portfolio/" target="_blank">Clique aqui para acessar meu portfolio!</a>
  <br>
