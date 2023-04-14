@@ -4,7 +4,7 @@
  
 I'm a front-end developer with 1 year of experience in creating web applications with knowledge in HTML, CSS, JavaScript, React, C# .NET, PHP and WordPress. Student of Systems Analysis and Development at Estácio College. I have already worked as a programming instructor, helping hundreds of students to enter the IT market. I have intermediate English and I study at Alura, focusing on expanding my talent and learning.
 
-<a href="https://jucox.github.io/portfolio/" target="_blank">Clique aqui para acessar meu portfolio!</a>
+<a href="https://jucox.github.io/portfolio/" target="_blank">Click here to acess my portfolio!</a>
  <br>
 </div>
 
